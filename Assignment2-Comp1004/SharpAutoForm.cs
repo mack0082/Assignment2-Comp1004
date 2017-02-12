@@ -23,6 +23,7 @@ namespace Assignment2_Comp1004
             InitializeComponent();
         }
 
+        // To calaculate the whole amount
         private void claculateButton_Click(object sender, EventArgs e)
         {
             Double BasePrice = Convert.ToDouble(textBox1.Text);
